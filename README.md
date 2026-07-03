@@ -97,6 +97,15 @@ L'application permet d'effectuer avec succès toutes les opérations CRUD
 
 ## 10. Les captures de test :
 !['image'](/assets/images/Screenshot_20260702_233558.jpg)
+!['image'](/assets/images/Screenshot_20260702_233605.jpg)
+!['image'](/assets/images/Screenshot_20260702_233638.jpg)
+!['image'](/assets/images/Screenshot_20260702_233701.jpg)
+!['image'](/assets/images/Screenshot_20260702_233818.jpg)
+
+
+
+
+
 
 
 ## 11. Conclusion
