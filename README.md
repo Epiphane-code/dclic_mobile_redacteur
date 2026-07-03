@@ -1,6 +1,8 @@
 # redacteur
 
 # RAPPORT DE PROJET : APPLICATION DE GESTION DES RÉDACTEURS AVEC FLUTTER ET SQLITE
+# APPRENANT: Omar Epiphane
+# REPOT GITHUB: [text](https://github.com/Epiphane-code/dclic_mobile_redacteur.git)
 
 ## 1. Introduction
 
